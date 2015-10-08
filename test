@@ -1,0 +1,29 @@
+cam
+{
+	center : 0 -0 -0
+	dir : 1 0 0
+}
+sphere
+{
+	center : 500 0 0
+	radius : 100
+	light : 1 0 0
+}
+sphere
+{
+	center : 800 100 -100
+	radius : 100
+	light : 0.45 0 0.1
+}
+cylinder
+{
+	center : 400 -100 -100
+	dir : 0 0 1
+	radius : 70
+	light : 0 1 0
+}
+light
+{
+	center : 300 300 300
+	light : 255 255 255
+}

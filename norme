@@ -1,0 +1,47 @@
+Norme: srcs/cone.c
+Error: global scope bad aligned
+Error (line 23, col 16): bad character after ,
+Norme: srcs/ctrl1.c
+Norme: srcs/ctrl2.c
+Norme: srcs/cylinder.c
+Norme: srcs/data_convert.c
+Norme: srcs/main.c
+Norme: srcs/mlx_hooks.c
+Norme: srcs/mlx_trace.c
+Norme: srcs/objects.c
+Norme: srcs/op_geom.c
+Norme: srcs/op_math.c
+Norme: srcs/pixel_process.c
+Error (line 60): line has 89 characters
+Error (line 61): must begin only by tabulations
+Error (line 61): bad indentation
+Norme: srcs/plan.c
+Error (line 1): line has 82 characters
+Error (line 2): line has 82 characters
+Error (line 3): line has 82 characters
+Error (line 4): line has 82 characters
+Error (line 5): line has 82 characters
+Error (line 6): line has 82 characters
+Error (line 7): line has 82 characters
+Error (line 8): line has 82 characters
+Error (line 9): line has 82 characters
+Error (line 10): line has 82 characters
+Error (line 11): line has 82 characters
+Norme: srcs/primitives.c
+Error: file must end with a single empty line
+Norme: srcs/reflection.c
+Error (line 1): line has 82 characters
+Error (line 2): line has 82 characters
+Error (line 3): line has 82 characters
+Error (line 4): line has 82 characters
+Error (line 5): line has 82 characters
+Error (line 6): line has 82 characters
+Error (line 7): line has 82 characters
+Error (line 8): line has 82 characters
+Error (line 9): line has 82 characters
+Error (line 10): line has 82 characters
+Error (line 11): line has 82 characters
+Norme: srcs/screen_ray.c
+Norme: srcs/sphere.c
+Error (line 13): multiple empty lines
+Norme: srcs/vectors.c
